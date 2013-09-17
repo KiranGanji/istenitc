@@ -1,0 +1,15 @@
+<p>
+										Thanks for the first years for making the event successful. There is still a lot to go for you people.Below are the links to keys of the AKS conducted on 28th August 2013(click on the respective links to download the pdf)<br/>
+										<a href="pdf/aks/chemistrykey.pdf">Chemistry</a>,
+										<a href="pdf/aks/mathskey.pdf">Maths</a>,
+										<a href="pdf/aks/physics_key.pdf">Physics</a>,
+										<a href="pdf/aks/computerskey.pdf">Computer Science</a>,
+										<a href="pdf/aks/Gen_Apt.pdf">General Aptitude</a>.
+										</p><br/>
+										<header>
+											<h3>Inquisite Launched</h3>
+										</header>
+										<!--<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>-->
+										<p>
+										Inquisite which is the monthly newsletter of ISTE NITC Students' Chapter has been launched on the August 8th 2013. Want to give it a read, Grab the copy by clicking <a href="http://issuu.com/istenitc/docs/merged_document_585daecd924df1">here</a>
+										</p>
