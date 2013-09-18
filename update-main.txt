@@ -1,4 +1,9 @@
-<p>
+<header>
+											<h2>Updates</h2>
+											<h3>AKS</h3>
+										</header>
+										<!--<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>-->
+										<p>
 										Thanks for the first years for making the event successful. There is still a lot to go for you people.Below are the links to keys of the AKS conducted on 28th August 2013(click on the respective links to download the pdf)<br/>
 										<a href="pdf/aks/chemistrykey.pdf">Chemistry</a>,
 										<a href="pdf/aks/mathskey.pdf">Maths</a>,
