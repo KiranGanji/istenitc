@@ -42,7 +42,7 @@
 							$updateold=$_POST["update-text"];
 							$file="update-main.txt";
 							$store=fopen($file, 'w');
-							fwrite($store, $updateold);
+							fwrite($store, stripcslashes($updateold));
 							fclose($store);
 							echo "The changes have been made. You can check out the home page for the changes you have made";
 							 ?>
