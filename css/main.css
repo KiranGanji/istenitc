@@ -1,6 +1,8 @@
 body{
-	background-image: url('../bgimg/bg.png');
-	background-repeat: repeat;
+	background-image: url('../images/bg04.png');
+			background-color: #f7f7f7;
+			background-repeat: repeat;
+			font-family: 'Yanone Kaffeesatz';
 }
 #wrapper-main{
 	width:100%;
@@ -128,7 +130,7 @@ body{
 		#wrapper-auto{
 			width:980px;
 			margin:0px auto;
-			height:100%;
+			height:auto;
 		}
 		#contact-form{
 			width:450px;
