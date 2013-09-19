@@ -23,7 +23,7 @@
 				<div class="outlayer">
 					<section class="color-1">
 						<nav class="cl-effect-14">
-							<a href="index.html">Home</a>
+							<a href="index.php">Home</a>
 							<a href="events/index.html">Events</a>
 							<a href="iv/team.html">Our Team</a>
 							<a href="#">Contact Us</a>
@@ -39,13 +39,27 @@
 					</section>
 					<div id="cms-form">
 							<?php
+							if(isset( $_POST['Submit-main'])){
 							$updateold=$_POST["update-text"];
 							$file="update-main.txt";
 							$store=fopen($file, 'w');
 							fwrite($store, stripcslashes($updateold));
 							fclose($store);
 							echo "The changes have been made. You can check out the home page for the changes you have made";
+							}
+							elseif (isset($_POST['Submit2'])) {
+							$updateold=$_POST["update2-text"];
+							$file="iv/update2.txt";
+							$store=fopen($file, 'w');
+							fwrite($store, stripcslashes($updateold));
+							fclose($store);
+							echo "The changes have been made. You can check out the home page for the changes you have made";	
+							}
+							else{
+								echo "U seem to be doing nothing";
+								}
 							 ?>
+							
 					</div>								
 				</div>
 			</div>
